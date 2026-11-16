@@ -1,0 +1,10 @@
+Docker mark supplied by Docker's official logo kit
+https://www.docker.com/company/newsroom/media-resources/
+https://www.docker.com/static/Docker-Logos-1.zip
+
+Kubernetes icon supplied by CNCF artwork
+https://github.com/cncf/artwork/tree/main/projects/kubernetes
+https://github.com/kubernetes/kubernetes/blob/master/logo/usage_guidelines.md
+
+The marks identify the runtime used by a task.
+Docker and Kubernetes marks belong to their respective owners.

@@ -1,0 +1,5 @@
+Tux by Larry Ewing, created with the GIMP.
+Source: https://github.com/torvalds/linux/blob/v2.6.12/Documentation/logo.gif
+Permission: https://isc.tamu.edu/~lewing/linux/
+Permission to use and/or modify this image is granted provided you acknowledge
+me lewing@isc.tamu.edu and The GIMP if someone asks.
